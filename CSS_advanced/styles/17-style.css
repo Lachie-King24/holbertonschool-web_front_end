@@ -109,7 +109,7 @@ a:active {
 
 .section-footer {
   padding: var(--section-footer-padding);
-  justify-content: var(--section-footer-align);
+  text-align: var(--section-footer-align);
 }
 
 .section-title {
